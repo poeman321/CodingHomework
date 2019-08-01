@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\GitOuttaHere\CodingHomework\bin\Debug\netcoreapp2.2\CodingHomework.deps.json
+C:\Users\admin\Desktop\GitOuttaHere\CodingHomework\bin\Debug\netcoreapp2.2\CodingHomework.runtimeconfig.json
+C:\Users\admin\Desktop\GitOuttaHere\CodingHomework\bin\Debug\netcoreapp2.2\CodingHomework.runtimeconfig.dev.json
+C:\Users\admin\Desktop\GitOuttaHere\CodingHomework\bin\Debug\netcoreapp2.2\CodingHomework.dll
+C:\Users\admin\Desktop\GitOuttaHere\CodingHomework\bin\Debug\netcoreapp2.2\CodingHomework.pdb
+C:\Users\admin\Desktop\GitOuttaHere\CodingHomework\obj\Debug\netcoreapp2.2\CodingHomework.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\GitOuttaHere\CodingHomework\obj\Debug\netcoreapp2.2\CodingHomework.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GitOuttaHere\CodingHomework\obj\Debug\netcoreapp2.2\CodingHomework.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\GitOuttaHere\CodingHomework\obj\Debug\netcoreapp2.2\CodingHomework.AssemblyInfo.cs
+C:\Users\admin\Desktop\GitOuttaHere\CodingHomework\obj\Debug\netcoreapp2.2\CodingHomework.dll
+C:\Users\admin\Desktop\GitOuttaHere\CodingHomework\obj\Debug\netcoreapp2.2\CodingHomework.pdb

@@ -11,7 +11,7 @@ namespace CodingHomeWork
 {
     public class ChapterThree
     {
-        static void ExersizeOne(string[] args)
+        static void Main(string[] args)
         {
             //in the first exersize, the questions are as follows (with my answer's below them)
 
